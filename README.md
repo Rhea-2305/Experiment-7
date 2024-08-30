@@ -52,6 +52,7 @@ Visual Studio Code
 Searching for an element in an array involves checking each element to see if it matches the target value.
 
 ## Output
+![image](https://github.com/user-attachments/assets/99364051-bc6a-402d-9968-311c6d4039af)
 
 ## Conclusion
 We learned how to search an element in the array and also displayed its position along with the number of times it has occurred.
