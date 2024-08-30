@@ -69,6 +69,7 @@ Visual Studio Code
 Calculating the sum and average of elements in an array involves iterating through the array to accumulate the total sum of its elements. Once the sum is obtained, the average can be calculated by dividing the sum by the number of elements in the array.
 
 ## Output
+![image](https://github.com/user-attachments/assets/0e671c95-791f-41d3-b17c-b8bce0316c7a)
 
 ## Conclusion
 We learned how to calculate sum and average of elements of array.
@@ -85,4 +86,7 @@ Visual Studio Code
 Finding the minimum and maximum elements in an array involves iterating through the array while keeping track of the smallest and largest values encountered. By comparing each element to the current minimum and maximum, the algorithm updates these values as needed.
 
 ## Output
+![image](https://github.com/user-attachments/assets/e825fc39-9a17-4262-a492-a44472cc97c7)
 
+## Conclusion
+We learned how to display the minimum and maximum element of the array.
