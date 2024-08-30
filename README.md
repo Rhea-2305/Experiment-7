@@ -35,6 +35,7 @@ Reverse the elements of an array
 Visual Studio Code
 
 ## Output
+![image](https://github.com/user-attachments/assets/2f682b03-86aa-407e-9882-4b6ccd963845)
 
 ## Conclusion 
 We learned how to display a reversed array.
