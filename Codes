@@ -1,7 +1,7 @@
 //Rhea Kulkarni
 //ENTC B1
 //23070123106
-//
+//create and display array
 #include <iostream>
 using namespace std;
 int main() {
